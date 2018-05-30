@@ -2160,6 +2160,14 @@
     "repo": "https://github.com/paf31/purescript-taylor.git",
     "version": "v3.0.0"
   },
+  "template-strings": {
+    "dependencies": [
+      "functions",
+      "tuples"
+    ],
+    "repo": "https://github.com/purescripters/purescript-template-strings.git",
+    "version": "v4.0.0"
+  },
   "test-unit": {
     "dependencies": [
       "aff",
